@@ -64,9 +64,6 @@
 
 ---
 
-#### <img width="20" align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> My LeeetCode Stats
-<img src="./metrics.plugin.leetcode.svg" />
-
 
 #### Coding statistics
 
